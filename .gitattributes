@@ -1,4 +1,4 @@
-ios/* linguist-vendored
-ScalaJSReactNative.xcodeproj linguist-vendored
+iOS/* linguist-vendored
+ScalaJSReactNative.xcodeproj/* linguist-vendored
 node_modules/* linguist-vendored
 index.ios.js linguist-vendored
