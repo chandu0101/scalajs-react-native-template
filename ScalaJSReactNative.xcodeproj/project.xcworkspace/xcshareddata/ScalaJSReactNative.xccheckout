@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5337142C-108F-4263-8BDE-1E98D45CEFF4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ScalaJSReactNative</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0898FAB9F7B863C8BC34E0818C021F8C9F4A3968</key>
+		<string>https://github.com/gzm0/scala-on-ios</string>
+		<key>5DC92C2463C02263A3165FE606E0D19B96116DBA</key>
+		<string>https://github.com/chandu0101/scalajs-react-native-template</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ScalaJSReactNative.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0898FAB9F7B863C8BC34E0818C021F8C9F4A3968</key>
+		<string>../../../scala-on-ios</string>
+		<key>5DC92C2463C02263A3165FE606E0D19B96116DBA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chandu0101/scalajs-react-native-template</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5DC92C2463C02263A3165FE606E0D19B96116DBA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0898FAB9F7B863C8BC34E0818C021F8C9F4A3968</string>
+			<key>IDESourceControlWCCName</key>
+			<string>scala-on-ios</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5DC92C2463C02263A3165FE606E0D19B96116DBA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>scalajs-react-native-template</string>
+		</dict>
+	</array>
+</dict>
+</plist>
