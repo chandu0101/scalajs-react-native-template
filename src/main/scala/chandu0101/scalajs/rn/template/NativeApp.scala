@@ -14,7 +14,7 @@ object NativeApp extends JSApp {
       .render((P) => {
          HelloNative()
       })
-      .buildNative
+      .buildNative // If your componenet is going to be render by other third party component then use buildNative
 
     ReactNative.AppRegistry.registerComponent("ScalaJSReactNative", () => ScalaJSReactNative)
 
