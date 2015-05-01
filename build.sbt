@@ -6,8 +6,8 @@ scalaVersion := "2.11.6"
 
 val scalajsReactNativeVersion = "0.0.1"
 
-libraryDependencies ++= Seq("com.chandu0101.scalajs-react-native" %%% "core" % scalajsReactNativeVersion,
-  "com.chandu0101.scalajs-react-native" %%% "styles" % scalajsReactNativeVersion)
+libraryDependencies ++= Seq("com.github.chandu0101.scalajs-react-native" %%% "core" % scalajsReactNativeVersion,
+  "com.github.chandu0101.scalajs-react-native" %%% "styles" % scalajsReactNativeVersion)
 
 // Mechanisms to generate react  native file
 
