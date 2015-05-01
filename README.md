@@ -1,8 +1,6 @@
 # scalajs-react-native-template
 template proj for scalajs-react-native
 
-![hellonative](hellonative.png)
-
 #### How to run :
 
 ```scala
@@ -25,3 +23,5 @@ template proj for scalajs-react-native
  Cmd+Shift+K - to cleanup
 
 ```
+
+![hellonative](hellonative.png)
