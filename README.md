@@ -13,7 +13,7 @@ template project for [scalajs-react-native](https://github.com/chandu0101/scalaj
 // open new terminal tab/window
  sbt ~fullOptIOS
 
- Open ScalaJSReactNative.xcodeproj using latest xcode
+ Open ScalaJSReactNativeTemplate.xcodeproj using latest xcode
 
  Cmd+R - to run project
 
