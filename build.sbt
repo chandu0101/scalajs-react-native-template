@@ -4,7 +4,7 @@ name := "ScalaJS React Native Template"
 
 scalaVersion := "2.11.7"
 
-val scalajsReactNativeVersion = "0.0.2-SNAPSHOT"
+val scalajsReactNativeVersion = "0.2.0"
 
 libraryDependencies ++= Seq("com.github.chandu0101.scalajs-react-native" %%% "core" % scalajsReactNativeVersion,
   "com.github.chandu0101.scalajs-react-native" %%% "styles" % scalajsReactNativeVersion)
