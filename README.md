@@ -1,5 +1,6 @@
 # scalajs-react-native-template
-template proj for scalajs-react-native
+
+template project for [scalajs-react-native](https://github.com/chandu0101/scalajs-react-native)
 
 #### How to run :
 
