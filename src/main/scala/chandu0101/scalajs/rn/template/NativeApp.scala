@@ -10,13 +10,13 @@ object NativeApp extends JSApp {
   @JSExport
   override def main(): Unit = {
 
-    val ScalaJSReactNative = ReactNativeComponentB[Unit]("ScalaJSReactNative")
+    val ScalaJSReactNativeTemplate = ReactNativeComponentB[Unit]("ScalaJSReactNativeTemplate")
       .render((P) => {
          HelloNative()
       })
       .buildNative // If your component is going to be render by other third party component then use buildNative
 
-    ReactNative.AppRegistry.registerComponent("ScalaJSReactNative", () => ScalaJSReactNative)
+    ReactNative.AppRegistry.registerComponent("ScalaJSReactNativeTemplate", () => ScalaJSReactNativeTemplate)
 
   }
 }

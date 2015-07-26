@@ -10,9 +10,9 @@ template proj for scalajs-react-native
  npm run start
 
 // open new terminal tab/window
- sbt ~genReactFile
+ sbt ~fullOptIOS
 
- Open ScalaJSReactNative.xcodeproj using xcode
+ Open ScalaJSReactNative.xcodeproj using latest xcode
 
  Cmd+R - to run project
 

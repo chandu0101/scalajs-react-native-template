@@ -2,7 +2,7 @@ package chandu0101.scalajs.rn.template.components
 
 import chandu0101.scalajs.rn._
 import chandu0101.scalajs.rn.components._
-import main.scala.chandu0101.scalajs.rn.styles.NativeStyleSheet
+import chandu0101.scalajs.rn.styles.NativeStyleSheet
 
 object HelloNative {
 
