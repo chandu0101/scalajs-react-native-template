@@ -15,13 +15,14 @@ template project for [scalajs-react-native](https://github.com/chandu0101/scalaj
 
  Open ScalaJSReactNativeTemplate.xcodeproj using latest xcode
 
+ Cmd+Shift+K - to cleanup
+ 
+ Cmd+B - to build
+  
  Cmd+R - to run project
 
  Cmd+D - to debug project
 
- Cmd+B - to build
-
- Cmd+Shift+K - to cleanup
 
 ```
 
