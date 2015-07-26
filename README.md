@@ -6,9 +6,9 @@ template project for [scalajs-react-native](https://github.com/chandu0101/scalaj
 
 ```scala
  cd scalajs-react-native-template
- // start react-native package
  npm install
- npm run start
+ npm run start // start react-native packager
+
 
 // open new terminal tab/window
  sbt ~fullOptIOS
